@@ -10,6 +10,9 @@
 // - Remove espaços extras no início e no final da frase antes de realizar a verificação.
 
 function verificarPalavra(frase, palavraBusca) {
+  if (frase < 5) {
+    return "A frase é muito curta"
+  }
   // TODO: implementar função
 }
 

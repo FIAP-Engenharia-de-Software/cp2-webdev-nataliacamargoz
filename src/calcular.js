@@ -2,7 +2,8 @@
 
 // **Enunciado:**
 
-// Crie uma função chamada Calcular, que recebe dois números e uma operação matemática (`+`, `-`, `*`, `/`). A função deve:
+// Crie uma função chamada Calcular, que recebe dois números e uma operação matemática 
+// (`+`, `-`, `*`, `/`). A função deve:
 
 // - Retornar `"Erro: parâmetros inválidos"` se `a` ou `b` não forem números.
 // - Retornar `"Erro: divisão por zero"` se tentar dividir por zero;
